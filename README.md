@@ -6,7 +6,7 @@ To implement filters for smoothing and sharpening the images in the spatial doma
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1
+
 ### Step1
 Import the required libraries.
 
