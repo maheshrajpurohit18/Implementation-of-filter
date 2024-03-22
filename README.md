@@ -162,57 +162,36 @@ i) Using Averaging Filter
 
 ![Screenshot 2024-03-22 104701](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/1fdb5a22-a739-4a12-8299-c8b5845c4113)
 </br>
-</br>
-</br>
-</br>
+
 
 ii) Using Weighted Averaging Filter
 </br>
-![Screenshot 2024-03-22 104746](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/0109dda3-864b-4f0e-9b02-b31cb365d920)
 
-</br>
-</br>
-</br>
-</br>
+![Screenshot 2024-03-22 110446](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/53e8666d-32d8-44f7-aa95-3cff54ef1576)
 
 iii) Using Gaussian Filter
-</br>
-</br>
-![Screenshot 2024-03-22 104820](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/2baadfd5-6cc0-4519-ae35-ec284d4f9f2e)
 
-</br>
-</br>
-</br>
+![Screenshot 2024-03-22 104820](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/b0b97a89-df79-46dc-85d0-22cd8fda3fcd)
 
 iv) Using Median Filter
 </br>
-</br>
+
 ![Screenshot 2024-03-22 104859](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/584c6f55-cb2b-401f-860a-e43a41f12322)
 
 </br>
-</br>
-</br>
 
 ### 2. Sharpening Filters
-</br>
-
 
 i) Using Laplacian Kernal
 </br>
 </br>
 ![Screenshot 2024-03-22 104931](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/c3f67e35-f222-44f1-b687-7fa981d1ad85)
-
-</br>
-</br>
 </br>
 
 ii) Using Laplacian Operator
 </br>
-</br>
 ![Screenshot 2024-03-22 104959](https://github.com/maheshrajpurohit18/Implementation-of-filter/assets/118749665/e523db4a-3ea2-403d-b2b6-ba6f1b9b48aa)
 
-</br>
-</br>
 </br>
 
 ## Result:
